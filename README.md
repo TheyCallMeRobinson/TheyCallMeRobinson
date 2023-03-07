@@ -9,4 +9,4 @@ Welcome to my GitHub profile! This is where I tinker and develop various stuff.
 
 They call me Robinson for no reason 😉
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheyCallMeRobinson)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=theycallmerobinson)](https://github.com/anuraghazra/github-readme-stats)
